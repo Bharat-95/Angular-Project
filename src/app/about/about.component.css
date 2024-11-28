@@ -1,0 +1,18 @@
+.aboutTitle{
+font-size: 25px;
+text-decoration: none;
+color: white;
+text-decoration: underline;
+text-underline-offset: 5px;
+}
+
+.container{
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-top: 5rem;
+}
+
+.aboutTitle:hover{
+
+    color: orangered;
+}

@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+nav{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+a:hover{
+
+  transform: translateX(1px) translateY(-1px);
+  transition-duration: 200ms;
+  color: orangered ;
+  text-decoration: underline;
+
+}
+
+.title{
+ color: orangered;
+ font-size: 30px;
+padding-left: 20px;
+padding-top: 20px;
+font-weight: bold;
+  
+
+}
+
+.subtitle{
+
+  color: white;
+  padding-left: 20px;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.container{
+
+  border-width: 1px;
+  border-bottom: 1px solid white;
+  
+}
